@@ -17,7 +17,7 @@ Follow the steps below to reference code from the GitHub repository and run the 
 
 2. Navigate to the repository directory:
 
-   cd gpt_invoice
+   cd LLm_langchain
 
 3. Install the required dependencies (if any) by running the following command:
 
@@ -26,8 +26,8 @@ Follow the steps below to reference code from the GitHub repository and run the 
 4. Execute the Python file:
    Run question answering model
 
-   python qa.py
+   python src/qa.py
 
-5.Run summarization code
+5. Run summarization code
  
-    python summarize.py
+    python src/summarize.py
